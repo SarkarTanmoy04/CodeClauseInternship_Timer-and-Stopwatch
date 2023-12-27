@@ -4,7 +4,7 @@
 ## <sub>*This project is the outcome of CodeClause Internship Porgram Assignment, based on a Timer & Stopwatch*</sub>
 
 ### *Click Here to check it out*
-👉  [Visit Link](https://sarkartanmoy04.github.io/Timer-and-Stopwatch/)
+👉  [Visit Link](https://sarkartanmoy04.github.io/CodeClauseInternship_Timer-and-Stopwatch/)
 
 ***Programming Language Used***
  + *HTML*
